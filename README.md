@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlueCat9013 | Owner @BC BOT Community
-- 🌱 I’m currently learning Discord.py | Litter bit Discord.js
+- 🌱 I’m currently learning Discord.py | HTML | CSS
 - 📫 Let fine me at Github and Discord
 - [![Netlify Status](https://api.netlify.com/api/v1/badges/4c75158b-f32a-48bc-8533-b15f48acf33f/deploy-status)](https://bcbot.fun)
 <!---
